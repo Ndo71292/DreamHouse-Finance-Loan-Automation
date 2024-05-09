@@ -1,0 +1,615 @@
+Loan_ID,Gender,age,Married,Dependents,county,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,application_date,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LP001002,Male,22,No,0,Nairobi,Graduate,No,5849,0,,29/08/2017,360,1,Urban,Y
+LP001003,Male,31,Yes,1,Kiambu,Graduate,No,4583,1508,128,29/06/2017,360,1,Rural,N
+LP001005,Male,43,Yes,0,Machakos,Graduate,Yes,3000,0,66,21/11/2017,360,1,Urban,Y
+LP001006,Male,37,Yes,0,Kiambu,Not Graduate,No,2583,2358,120,22/08/2018,360,1,Urban,Y
+LP001008,Male,36,No,0,Mombasa,Graduate,No,6000,0,141,15/01/2018,360,1,Urban,Y
+LP001011,Male,33,Yes,2,Machakos,Graduate,Yes,5417,4196,267,11/2/2018,360,1,Urban,Y
+LP001013,Male,43,Yes,0,Nairobi,Not Graduate,No,2333,1516,95,26/04/2018,360,1,Urban,Y
+LP001014,Male,32,Yes,3+,Kiambu,Graduate,No,3036,2504,158,1/7/2017,360,0,Semiurban,N
+LP001018,Male,22,Yes,2,Nairobi,Graduate,No,4006,1526,168,26/08/2017,360,1,Urban,Y
+LP001020,Male,26,Yes,1,Mombasa,Graduate,No,12841,10968,349,26/12/2018,360,1,Semiurban,N
+LP001024,Male,22,Yes,2,Kiambu,Graduate,No,3200,700,70,16/08/2017,360,1,Urban,Y
+LP001027,Male,45,Yes,2,Kiambu,Graduate,,2500,1840,109,12/8/2018,360,1,Urban,Y
+LP001028,Male,26,Yes,2,Kiambu,Graduate,No,3073,8106,200,15/03/2017,360,1,Urban,Y
+LP001029,Male,35,No,0,Nairobi,Graduate,No,1853,2840,114,10/2/2017,360,1,Rural,N
+LP001030,Male,28,Yes,2,Mombasa,Graduate,No,1299,1086,17,17/01/2018,120,1,Urban,Y
+LP001032,Male,37,No,0,Kiambu,Graduate,No,4950,0,125,26/08/2017,360,1,Urban,Y
+LP001034,Male,20,No,1,Kiambu,Not Graduate,No,3596,0,100,6/6/2017,240,,Urban,Y
+LP001036,Female,27,No,0,Machakos,Graduate,No,3510,0,76,25/12/2017,360,0,Urban,N
+LP001038,Male,18,Yes,0,Nairobi,Not Graduate,No,4887,0,133,1/5/2017,360,1,Rural,N
+LP001041,Male,18,Yes,0,Kiambu,Graduate,,2600,3500,115,25/11/2017,,1,Urban,Y
+LP001043,Male,40,Yes,0,Kiambu,Not Graduate,No,7660,0,104,19/06/2018,360,0,Urban,N
+LP001046,Male,33,Yes,1,Mombasa,Graduate,No,5955,5625,315,7/3/2018,360,1,Urban,Y
+LP001047,Male,24,Yes,0,Machakos,Not Graduate,No,2600,1911,116,15/11/2017,360,0,Semiurban,N
+LP001050,,21,Yes,2,Nairobi,Not Graduate,No,3365,1917,112,13/08/2017,360,0,Rural,N
+LP001052,Male,27,Yes,1,Machakos,Graduate,,3717,2925,151,10/4/2017,360,,Semiurban,N
+LP001066,Male,28,Yes,0,Kiambu,Graduate,Yes,9560,0,191,6/8/2017,360,1,Semiurban,Y
+LP001068,Male,44,Yes,0,Kiambu,Graduate,No,2799,2253,122,27/06/2017,360,1,Semiurban,Y
+LP001073,Male,33,Yes,2,Mombasa,Not Graduate,No,4226,1040,110,21/07/2017,360,1,Urban,Y
+LP001086,Male,39,No,0,Mombasa,Not Graduate,No,1442,0,35,9/10/2017,360,1,Urban,N
+LP001087,Female,45,No,2,Machakos,Graduate,,3750,2083,120,5/10/2017,360,1,Semiurban,Y
+LP001091,Male,45,Yes,1,Nairobi,Graduate,,4166,3369,201,12/12/2017,360,,Urban,N
+LP001095,Male,27,No,0,Kiambu,Graduate,No,3167,0,74,14/08/2018,360,1,Urban,N
+LP001097,Male,35,No,1,Kiambu,Graduate,Yes,4692,0,106,19/10/2017,360,1,Rural,N
+LP001098,Male,36,Yes,0,Kiambu,Graduate,No,3500,1667,114,26/09/2018,360,1,Semiurban,Y
+LP001100,Male,34,No,3+,Machakos,Graduate,No,12500,3000,320,1/12/2018,360,1,Rural,N
+LP001106,Male,18,Yes,0,Kiambu,Graduate,No,2275,2067,,26/02/2017,360,1,Urban,Y
+LP001109,Male,22,Yes,0,Nairobi,Graduate,No,1828,1330,100,12/6/2017,,0,Urban,N
+LP001112,Female,30,Yes,0,Machakos,Graduate,No,3667,1459,144,19/10/2018,360,1,Semiurban,Y
+LP001114,Male,37,No,0,Kiambu,Graduate,No,4166,7210,184,7/6/2017,360,1,Urban,Y
+LP001116,Male,39,No,0,Nairobi,Not Graduate,No,3748,1668,110,24/05/2017,360,1,Semiurban,Y
+LP001119,Male,37,No,0,Nairobi,Graduate,No,3600,0,80,23/09/2017,360,1,Urban,N
+LP001120,Male,25,No,0,Kiambu,Graduate,No,1800,1213,47,21/01/2018,360,1,Urban,Y
+LP001123,Male,18,Yes,0,Nairobi,Graduate,No,2400,0,75,21/02/2018,360,,Urban,Y
+LP001131,Male,37,Yes,0,Mombasa,Graduate,No,3941,2336,134,20/07/2017,360,1,Semiurban,Y
+LP001136,Male,43,Yes,0,Nairobi,Not Graduate,Yes,4695,0,96,29/08/2018,,1,Urban,Y
+LP001137,Female,40,No,0,Machakos,Graduate,No,3410,0,88,24/07/2018,,1,Urban,Y
+LP001138,Male,29,Yes,1,Mombasa,Graduate,No,5649,0,44,11/12/2018,360,1,Urban,Y
+LP001144,Male,42,Yes,0,Nairobi,Graduate,No,5821,0,144,28/06/2017,360,1,Urban,Y
+LP001146,Female,40,Yes,0,Mombasa,Graduate,No,2645,3440,120,26/07/2018,360,0,Urban,N
+LP001151,Female,24,No,0,Nairobi,Graduate,No,4000,2275,144,17/04/2018,360,1,Semiurban,Y
+LP001155,Female,45,Yes,0,Mombasa,Not Graduate,No,1928,1644,100,30/01/2018,360,1,Semiurban,Y
+LP001157,Female,45,No,0,Kiambu,Graduate,No,3086,0,120,5/2/2017,360,1,Semiurban,Y
+LP001164,Female,24,No,0,Machakos,Graduate,No,4230,0,112,7/4/2017,360,1,Semiurban,N
+LP001179,Male,26,Yes,2,Nairobi,Graduate,No,4616,0,134,28/10/2018,360,1,Urban,N
+LP001186,Female,27,Yes,1,Nairobi,Graduate,Yes,11500,0,286,7/1/2017,360,0,Urban,N
+LP001194,Male,41,Yes,2,Nairobi,Graduate,No,2708,1167,97,8/5/2018,360,1,Semiurban,Y
+LP001195,Male,39,Yes,0,Mombasa,Graduate,No,2132,1591,96,7/4/2017,360,1,Semiurban,Y
+LP001197,Male,32,Yes,0,Kiambu,Graduate,No,3366,2200,135,16/12/2017,360,1,Rural,N
+LP001198,Male,28,Yes,1,Nairobi,Graduate,No,8080,2250,180,12/11/2017,360,1,Urban,Y
+LP001199,Male,44,Yes,2,Kiambu,Not Graduate,No,3357,2859,144,10/6/2018,360,1,Urban,Y
+LP001205,Male,20,Yes,0,Nairobi,Graduate,No,2500,3796,120,5/7/2017,360,1,Urban,Y
+LP001206,Male,27,Yes,3+,Nairobi,Graduate,No,3029,0,99,1/5/2017,360,1,Urban,Y
+LP001207,Male,37,Yes,0,Nairobi,Not Graduate,Yes,2609,3449,165,8/7/2017,180,0,Rural,N
+LP001213,Male,26,Yes,1,Nairobi,Graduate,No,4945,0,,18/04/2017,360,0,Rural,N
+LP001222,Female,43,No,0,Nairobi,Graduate,No,4166,0,116,29/08/2018,360,0,Semiurban,N
+LP001225,Male,23,Yes,0,Nairobi,Graduate,No,5726,4595,258,23/01/2018,360,1,Semiurban,N
+LP001228,Male,31,No,0,Kiambu,Not Graduate,No,3200,2254,126,1/4/2018,180,0,Urban,N
+LP001233,Male,18,Yes,1,Nairobi,Graduate,No,10750,0,312,12/5/2018,360,1,Urban,Y
+LP001238,Male,19,Yes,3+,Nairobi,Not Graduate,Yes,7100,0,125,8/1/2017,60,1,Urban,Y
+LP001241,Female,43,No,0,Machakos,Graduate,No,4300,0,136,30/11/2018,360,0,Semiurban,N
+LP001243,Male,18,Yes,0,Kiambu,Graduate,No,3208,3066,172,22/02/2018,360,1,Urban,Y
+LP001245,Male,38,Yes,2,Nairobi,Not Graduate,Yes,1875,1875,97,28/12/2017,360,1,Semiurban,Y
+LP001248,Male,27,No,0,Nairobi,Graduate,No,3500,0,81,30/12/2018,300,1,Semiurban,Y
+LP001250,Male,24,Yes,3+,Nairobi,Not Graduate,No,4755,0,95,20/05/2018,,0,Semiurban,N
+LP001253,Male,24,Yes,3+,Machakos,Graduate,Yes,5266,1774,187,27/12/2017,360,1,Semiurban,Y
+LP001255,Male,24,No,0,Machakos,Graduate,No,3750,0,113,9/3/2017,480,1,Urban,N
+LP001256,Male,27,No,0,Kiambu,Graduate,No,3750,4750,176,20/01/2018,360,1,Urban,N
+LP001259,Male,26,Yes,1,Mombasa,Graduate,Yes,1000,3022,110,18/12/2017,360,1,Urban,N
+LP001263,Male,35,Yes,3+,Kiambu,Graduate,No,3167,4000,180,4/2/2018,300,0,Semiurban,N
+LP001264,Male,39,Yes,3+,Kiambu,Not Graduate,Yes,3333,2166,130,1/2/2018,360,,Semiurban,Y
+LP001265,Female,41,No,0,Mombasa,Graduate,No,3846,0,111,14/06/2017,360,1,Semiurban,Y
+LP001266,Male,39,Yes,1,Nairobi,Graduate,Yes,2395,0,,21/02/2018,360,1,Semiurban,Y
+LP001267,Female,24,Yes,2,Mombasa,Graduate,No,1378,1881,167,3/6/2017,360,1,Urban,N
+LP001273,Male,34,Yes,0,Mombasa,Graduate,No,6000,2250,265,4/7/2017,360,,Semiurban,N
+LP001275,Male,44,Yes,1,Nairobi,Graduate,No,3988,0,50,7/12/2017,240,1,Urban,Y
+LP001279,Male,34,No,0,Kiambu,Graduate,No,2366,2531,136,24/10/2018,360,1,Semiurban,Y
+LP001280,Male,24,Yes,2,Kiambu,Not Graduate,No,3333,2000,99,20/03/2018,360,,Semiurban,Y
+LP001282,Male,45,Yes,0,Kiambu,Graduate,No,2500,2118,104,29/01/2017,360,1,Semiurban,Y
+LP001289,Male,28,No,0,Nairobi,Graduate,No,8566,0,210,11/11/2017,360,1,Urban,Y
+LP001310,Male,42,Yes,0,Kiambu,Graduate,No,5695,4167,175,8/1/2018,360,1,Semiurban,Y
+LP001316,Male,32,Yes,0,Mombasa,Graduate,No,2958,2900,131,21/05/2017,360,1,Semiurban,Y
+LP001318,Male,29,Yes,2,Mombasa,Graduate,No,6250,5654,188,27/06/2018,180,1,Semiurban,Y
+LP001319,Male,45,Yes,2,Mombasa,Not Graduate,No,3273,1820,81,17/10/2018,360,1,Urban,Y
+LP001322,Male,35,No,0,Mombasa,Graduate,No,4133,0,122,14/01/2017,360,1,Semiurban,Y
+LP001325,Male,22,No,0,Nairobi,Not Graduate,No,3620,0,25,20/09/2018,120,1,Semiurban,Y
+LP001326,Male,24,No,0,Nairobi,Graduate,,6782,0,,9/9/2017,360,,Urban,N
+LP001327,Female,35,Yes,0,Nairobi,Graduate,No,2484,2302,137,28/05/2018,360,1,Semiurban,Y
+LP001333,Male,21,Yes,0,Kiambu,Graduate,No,1977,997,50,10/1/2018,360,1,Semiurban,Y
+LP001334,Male,44,Yes,0,Kiambu,Not Graduate,No,4188,0,115,12/4/2017,180,1,Semiurban,Y
+LP001343,Male,20,Yes,0,Kiambu,Graduate,No,1759,3541,131,29/05/2017,360,1,Semiurban,Y
+LP001345,Male,19,Yes,2,Machakos,Not Graduate,No,4288,3263,133,19/03/2017,180,1,Urban,Y
+LP001349,Male,35,No,0,Machakos,Graduate,No,4843,3806,151,27/04/2017,360,1,Semiurban,Y
+LP001350,Male,18,Yes,,Mombasa,Graduate,No,13650,0,,11/12/2017,360,1,Urban,Y
+LP001356,Male,21,Yes,0,Mombasa,Graduate,No,4652,3583,,26/11/2018,360,1,Semiurban,Y
+LP001357,Male,40,,,Mombasa,Graduate,No,3816,754,160,9/6/2018,360,1,Urban,Y
+LP001367,Male,28,Yes,1,Mombasa,Graduate,No,3052,1030,100,29/05/2018,360,1,Urban,Y
+LP001369,Male,39,Yes,2,Kiambu,Graduate,No,11417,1126,225,2/11/2017,360,1,Urban,Y
+LP001370,Male,32,No,0,Machakos,Not Graduate,,7333,0,120,7/12/2018,360,1,Rural,N
+LP001379,Male,36,Yes,2,Mombasa,Graduate,No,3800,3600,216,23/01/2017,360,0,Urban,N
+LP001384,Male,34,Yes,3+,Nairobi,Not Graduate,No,2071,754,94,10/2/2017,480,1,Semiurban,Y
+LP001385,Male,31,No,0,Nairobi,Graduate,No,5316,0,136,8/6/2017,360,1,Urban,Y
+LP001387,Female,37,Yes,0,Machakos,Graduate,,2929,2333,139,19/07/2017,360,1,Semiurban,Y
+LP001391,Male,31,Yes,0,Kiambu,Not Graduate,No,3572,4114,152,17/11/2018,,0,Rural,N
+LP001392,Female,19,No,1,Mombasa,Graduate,Yes,7451,0,,31/05/2018,360,1,Semiurban,Y
+LP001398,Male,39,No,0,Mombasa,Graduate,,5050,0,118,24/03/2018,360,1,Semiurban,Y
+LP001401,Male,23,Yes,1,Machakos,Graduate,No,14583,0,185,8/4/2017,180,1,Rural,Y
+LP001404,Female,37,Yes,0,Mombasa,Graduate,No,3167,2283,154,31/12/2017,360,1,Semiurban,Y
+LP001405,Male,26,Yes,1,Kiambu,Graduate,No,2214,1398,85,29/04/2017,360,,Urban,Y
+LP001421,Male,37,Yes,0,Machakos,Graduate,No,5568,2142,175,9/9/2017,360,1,Rural,N
+LP001422,Female,22,No,0,Mombasa,Graduate,No,10408,0,259,1/3/2018,360,1,Urban,Y
+LP001426,Male,38,Yes,,Nairobi,Graduate,No,5667,2667,180,21/04/2018,360,1,Rural,Y
+LP001430,Female,37,No,0,Machakos,Graduate,No,4166,0,44,16/12/2018,360,1,Semiurban,Y
+LP001431,Female,18,No,0,Nairobi,Graduate,No,2137,8980,137,20/07/2017,360,0,Semiurban,Y
+LP001432,Male,38,Yes,2,Nairobi,Graduate,No,2957,0,81,5/11/2018,360,1,Semiurban,Y
+LP001439,Male,24,Yes,0,Mombasa,Not Graduate,No,4300,2014,194,9/6/2018,360,1,Rural,Y
+LP001443,Female,31,No,0,Mombasa,Graduate,No,3692,0,93,14/11/2018,360,,Rural,Y
+LP001448,,35,Yes,3+,Machakos,Graduate,No,23803,0,370,8/10/2018,360,1,Rural,Y
+LP001449,Male,43,No,0,Nairobi,Graduate,No,3865,1640,,6/8/2018,360,1,Rural,Y
+LP001451,Male,34,Yes,1,Mombasa,Graduate,Yes,10513,3850,160,15/04/2017,180,0,Urban,N
+LP001465,Male,23,Yes,0,Nairobi,Graduate,No,6080,2569,182,30/11/2018,360,,Rural,N
+LP001469,Male,23,No,0,Mombasa,Graduate,Yes,20166,0,650,25/04/2017,480,,Urban,Y
+LP001473,Male,31,No,0,Mombasa,Graduate,No,2014,1929,74,10/2/2017,360,1,Urban,Y
+LP001478,Male,29,No,0,Mombasa,Graduate,No,2718,0,70,28/11/2017,360,1,Semiurban,Y
+LP001482,Male,45,Yes,0,Machakos,Graduate,Yes,3459,0,25,21/04/2018,120,1,Semiurban,Y
+LP001487,Male,21,No,0,Nairobi,Graduate,No,4895,0,102,15/06/2018,360,1,Semiurban,Y
+LP001488,Male,38,Yes,3+,Machakos,Graduate,No,4000,7750,290,25/07/2017,360,1,Semiurban,N
+LP001489,Female,24,Yes,0,Machakos,Graduate,No,4583,0,84,21/04/2018,360,1,Rural,N
+LP001491,Male,30,Yes,2,Nairobi,Graduate,Yes,3316,3500,88,9/4/2017,360,1,Urban,Y
+LP001492,Male,40,No,0,Mombasa,Graduate,No,14999,0,242,22/11/2017,360,0,Semiurban,N
+LP001493,Male,35,Yes,2,Mombasa,Not Graduate,No,4200,1430,129,10/12/2017,360,1,Rural,N
+LP001497,Male,45,Yes,2,Machakos,Graduate,No,5042,2083,185,12/10/2017,360,1,Rural,N
+LP001498,Male,42,No,0,Machakos,Graduate,No,5417,0,168,31/12/2017,360,1,Urban,Y
+LP001504,Male,31,No,0,Kiambu,Graduate,Yes,6950,0,175,5/8/2018,180,1,Semiurban,Y
+LP001507,Male,40,Yes,0,Nairobi,Graduate,No,2698,2034,122,14/01/2018,360,1,Semiurban,Y
+LP001508,Male,20,Yes,2,Kiambu,Graduate,No,11757,0,187,17/01/2017,180,1,Urban,Y
+LP001514,Female,45,Yes,0,Mombasa,Graduate,No,2330,4486,100,4/2/2018,360,1,Semiurban,Y
+LP001516,Female,30,Yes,2,Kiambu,Graduate,No,14866,0,70,23/12/2017,360,1,Urban,Y
+LP001518,Male,18,Yes,1,Kiambu,Graduate,No,1538,1425,30,18/10/2017,360,1,Urban,Y
+LP001519,Female,38,No,0,Nairobi,Graduate,No,10000,1666,225,9/10/2017,360,1,Rural,N
+LP001520,Male,43,Yes,0,Kiambu,Graduate,No,4860,830,125,14/10/2017,360,1,Semiurban,Y
+LP001528,Male,44,No,0,Machakos,Graduate,No,6277,0,118,13/04/2018,360,0,Rural,N
+LP001529,Male,25,Yes,0,Nairobi,Graduate,Yes,2577,3750,152,10/3/2017,360,1,Rural,Y
+LP001531,Male,33,No,0,Nairobi,Graduate,No,9166,0,244,7/8/2018,360,1,Urban,N
+LP001532,Male,39,Yes,2,Machakos,Not Graduate,No,2281,0,113,6/11/2018,360,1,Rural,N
+LP001535,Male,40,No,0,Mombasa,Graduate,No,3254,0,50,14/04/2018,360,1,Urban,Y
+LP001536,Male,45,Yes,3+,Kiambu,Graduate,No,39999,0,600,24/01/2018,180,0,Semiurban,Y
+LP001541,Male,25,Yes,1,Kiambu,Graduate,No,6000,0,160,3/7/2018,360,,Rural,Y
+LP001543,Male,33,Yes,1,Machakos,Graduate,No,9538,0,187,29/07/2017,360,1,Urban,Y
+LP001546,Male,21,No,0,Nairobi,Graduate,,2980,2083,120,30/05/2017,360,1,Rural,Y
+LP001552,Male,41,Yes,0,Nairobi,Graduate,No,4583,5625,255,19/06/2017,360,1,Semiurban,Y
+LP001560,Male,40,Yes,0,Nairobi,Not Graduate,No,1863,1041,98,8/6/2017,360,1,Semiurban,Y
+LP001562,Male,22,Yes,0,Kiambu,Graduate,No,7933,0,275,19/06/2017,360,1,Urban,N
+LP001565,Male,22,Yes,1,Mombasa,Graduate,No,3089,1280,121,5/4/2017,360,0,Semiurban,N
+LP001570,Male,19,Yes,2,Mombasa,Graduate,No,4167,1447,158,14/06/2017,360,1,Rural,Y
+LP001572,Male,42,Yes,0,Kiambu,Graduate,No,9323,0,75,7/12/2017,180,1,Urban,Y
+LP001574,Male,42,Yes,0,Mombasa,Graduate,No,3707,3166,182,7/1/2018,,1,Rural,Y
+LP001577,Female,18,Yes,0,Machakos,Graduate,No,4583,0,112,22/04/2018,360,1,Rural,N
+LP001578,Male,37,Yes,0,Mombasa,Graduate,No,2439,3333,129,16/09/2017,360,1,Rural,Y
+LP001579,Male,44,No,0,Mombasa,Graduate,No,2237,0,63,25/11/2018,480,0,Semiurban,N
+LP001580,Male,37,Yes,2,Mombasa,Graduate,No,8000,0,200,6/8/2018,360,1,Semiurban,Y
+LP001581,Male,18,Yes,0,Mombasa,Not Graduate,,1820,1769,95,6/10/2017,360,1,Rural,Y
+LP001585,,36,Yes,3+,Kiambu,Graduate,No,51763,0,700,31/05/2018,300,1,Urban,Y
+LP001586,Male,36,Yes,3+,Machakos,Not Graduate,No,3522,0,81,4/1/2017,180,1,Rural,N
+LP001594,Male,27,Yes,0,Machakos,Graduate,No,5708,5625,187,25/06/2018,360,1,Semiurban,Y
+LP001603,Male,18,Yes,0,Mombasa,Not Graduate,Yes,4344,736,87,21/07/2018,360,1,Semiurban,N
+LP001606,Male,20,Yes,0,Nairobi,Graduate,No,3497,1964,116,26/02/2018,360,1,Rural,Y
+LP001608,Male,40,Yes,2,Kiambu,Graduate,No,2045,1619,101,23/03/2017,360,1,Rural,Y
+LP001610,Male,25,Yes,3+,Nairobi,Graduate,No,5516,11300,495,29/01/2018,360,0,Semiurban,N
+LP001616,Male,26,Yes,1,Mombasa,Graduate,No,3750,0,116,4/3/2018,360,1,Semiurban,Y
+LP001630,Male,18,No,0,Nairobi,Not Graduate,No,2333,1451,102,29/11/2017,480,0,Urban,N
+LP001633,Male,28,Yes,1,Machakos,Graduate,No,6400,7250,180,6/2/2018,360,0,Urban,N
+LP001634,Male,40,No,0,Kiambu,Graduate,No,1916,5063,67,14/10/2018,360,,Rural,N
+LP001636,Male,41,Yes,0,Mombasa,Graduate,No,4600,0,73,18/02/2018,180,1,Semiurban,Y
+LP001637,Male,45,Yes,1,Kiambu,Graduate,No,33846,0,260,17/06/2017,360,1,Semiurban,N
+LP001639,Female,39,Yes,0,Nairobi,Graduate,No,3625,0,108,1/2/2018,360,1,Semiurban,Y
+LP001640,Male,35,Yes,0,Nairobi,Graduate,Yes,39147,4750,120,22/06/2017,360,1,Semiurban,Y
+LP001641,Male,30,Yes,1,Nairobi,Graduate,Yes,2178,0,66,26/09/2018,300,0,Rural,N
+LP001643,Male,23,Yes,0,Mombasa,Graduate,No,2383,2138,58,1/9/2018,360,,Rural,Y
+LP001644,,23,Yes,0,Machakos,Graduate,Yes,674,5296,168,30/06/2017,360,1,Rural,Y
+LP001647,Male,30,Yes,0,Kiambu,Graduate,No,9328,0,188,18/03/2017,180,1,Rural,Y
+LP001653,Male,29,No,0,Nairobi,Not Graduate,No,4885,0,48,4/12/2017,360,1,Rural,Y
+LP001656,Male,38,No,0,Nairobi,Graduate,No,12000,0,164,11/10/2017,360,1,Semiurban,N
+LP001657,Male,20,Yes,0,Mombasa,Not Graduate,No,6033,0,160,13/09/2018,360,1,Urban,N
+LP001658,Male,34,No,0,Kiambu,Graduate,No,3858,0,76,6/12/2018,360,1,Semiurban,Y
+LP001664,Male,36,No,0,Mombasa,Graduate,No,4191,0,120,31/12/2018,360,1,Rural,Y
+LP001665,Male,32,Yes,1,Kiambu,Graduate,No,3125,2583,170,3/12/2017,360,1,Semiurban,N
+LP001666,Male,44,No,0,Machakos,Graduate,No,8333,3750,187,18/09/2017,360,1,Rural,Y
+LP001669,Female,24,No,0,Mombasa,Not Graduate,No,1907,2365,120,2/3/2017,,1,Urban,Y
+LP001671,Female,27,Yes,0,Nairobi,Graduate,No,3416,2816,113,14/11/2017,360,,Semiurban,Y
+LP001673,Male,28,No,0,Machakos,Graduate,Yes,11000,0,83,22/04/2017,360,1,Urban,N
+LP001674,Male,41,Yes,1,Nairobi,Not Graduate,No,2600,2500,90,15/08/2017,360,1,Semiurban,Y
+LP001677,Male,19,No,2,Kiambu,Graduate,No,4923,0,166,25/11/2017,360,0,Semiurban,Y
+LP001682,Male,30,Yes,3+,Nairobi,Not Graduate,No,3992,0,,10/3/2018,180,1,Urban,N
+LP001688,Male,42,Yes,1,Kiambu,Not Graduate,No,3500,1083,135,1/3/2017,360,1,Urban,Y
+LP001691,Male,20,Yes,2,Kiambu,Not Graduate,No,3917,0,124,7/1/2017,360,1,Semiurban,Y
+LP001692,Female,44,No,0,Machakos,Not Graduate,No,4408,0,120,4/8/2017,360,1,Semiurban,Y
+LP001693,Female,27,No,0,Kiambu,Graduate,No,3244,0,80,14/11/2017,360,1,Urban,Y
+LP001698,Male,38,No,0,Machakos,Not Graduate,No,3975,2531,55,28/05/2018,360,1,Rural,Y
+LP001699,Male,22,No,0,Kiambu,Graduate,No,2479,0,59,23/01/2017,360,1,Urban,Y
+LP001702,Male,20,No,0,Nairobi,Graduate,No,3418,0,127,3/5/2018,360,1,Semiurban,N
+LP001708,Female,20,No,0,Nairobi,Graduate,No,10000,0,214,7/5/2018,360,1,Semiurban,N
+LP001711,Male,19,Yes,3+,Kiambu,Graduate,No,3430,1250,128,13/02/2018,360,0,Semiurban,N
+LP001713,Male,29,Yes,1,Mombasa,Graduate,Yes,7787,0,240,23/08/2017,360,1,Urban,Y
+LP001715,Male,39,Yes,3+,Kiambu,Not Graduate,Yes,5703,0,130,17/02/2017,360,1,Rural,Y
+LP001716,Male,27,Yes,0,Mombasa,Graduate,No,3173,3021,137,21/08/2017,360,1,Urban,Y
+LP001720,Male,23,Yes,3+,Nairobi,Not Graduate,No,3850,983,100,7/10/2017,360,1,Semiurban,Y
+LP001722,Male,32,Yes,0,Nairobi,Graduate,No,150,1800,135,30/08/2017,360,1,Rural,N
+LP001726,Male,36,Yes,0,Machakos,Graduate,No,3727,1775,131,8/8/2017,360,1,Semiurban,Y
+LP001732,Male,36,Yes,2,Nairobi,Graduate,,5000,0,72,21/12/2017,360,0,Semiurban,N
+LP001734,Female,26,Yes,2,Kiambu,Graduate,No,4283,2383,127,31/12/2018,360,,Semiurban,Y
+LP001736,Male,43,Yes,0,Mombasa,Graduate,No,2221,0,60,12/8/2018,360,0,Urban,N
+LP001743,Male,40,Yes,2,Machakos,Graduate,No,4009,1717,116,20/09/2018,360,1,Semiurban,Y
+LP001744,Male,34,No,0,Machakos,Graduate,No,2971,2791,144,11/11/2018,360,1,Semiurban,Y
+LP001749,Male,28,Yes,0,Mombasa,Graduate,No,7578,1010,175,5/1/2017,,1,Semiurban,Y
+LP001750,Male,32,Yes,0,Machakos,Graduate,No,6250,0,128,28/10/2018,360,1,Semiurban,Y
+LP001751,Male,36,Yes,0,Mombasa,Graduate,No,3250,0,170,30/08/2018,360,1,Rural,N
+LP001754,Male,19,Yes,,Kiambu,Not Graduate,Yes,4735,0,138,9/8/2017,360,1,Urban,N
+LP001758,Male,36,Yes,2,Nairobi,Graduate,No,6250,1695,210,6/8/2018,360,1,Semiurban,Y
+LP001760,Male,45,,,Machakos,Graduate,No,4758,0,158,13/08/2018,480,1,Semiurban,Y
+LP001761,Male,42,No,0,Mombasa,Graduate,Yes,6400,0,200,20/07/2018,360,1,Rural,Y
+LP001765,Male,31,Yes,1,Machakos,Graduate,No,2491,2054,104,10/1/2017,360,1,Semiurban,Y
+LP001768,Male,44,Yes,0,Mombasa,Graduate,,3716,0,42,16/06/2017,180,1,Rural,Y
+LP001770,Male,38,No,0,Kiambu,Not Graduate,No,3189,2598,120,22/12/2018,,1,Rural,Y
+LP001776,Female,40,No,0,Machakos,Graduate,No,8333,0,280,12/7/2017,360,1,Semiurban,Y
+LP001778,Male,41,Yes,1,Machakos,Graduate,No,3155,1779,140,4/4/2017,360,1,Semiurban,Y
+LP001784,Male,34,Yes,1,Nairobi,Graduate,No,5500,1260,170,30/04/2017,360,1,Rural,Y
+LP001786,Male,45,Yes,0,Mombasa,Graduate,,5746,0,255,22/03/2018,360,,Urban,N
+LP001788,Female,25,No,0,Kiambu,Graduate,Yes,3463,0,122,8/5/2018,360,,Urban,Y
+LP001790,Female,27,No,1,Machakos,Graduate,No,3812,0,112,23/06/2018,360,1,Rural,Y
+LP001792,Male,29,Yes,1,Mombasa,Graduate,No,3315,0,96,3/5/2018,360,1,Semiurban,Y
+LP001798,Male,41,Yes,2,Mombasa,Graduate,No,5819,5000,120,23/09/2018,360,1,Rural,Y
+LP001800,Male,22,Yes,1,Machakos,Not Graduate,No,2510,1983,140,19/04/2018,180,1,Urban,N
+LP001806,Male,25,No,0,Mombasa,Graduate,No,2965,5701,155,16/12/2018,60,1,Urban,Y
+LP001807,Male,34,Yes,2,Nairobi,Graduate,Yes,6250,1300,108,3/5/2018,360,1,Rural,Y
+LP001811,Male,41,Yes,0,Kiambu,Not Graduate,No,3406,4417,123,18/11/2018,360,1,Semiurban,Y
+LP001813,Male,44,No,0,Nairobi,Graduate,Yes,6050,4333,120,22/09/2018,180,1,Urban,N
+LP001814,Male,23,Yes,2,Machakos,Graduate,No,9703,0,112,4/8/2017,360,1,Urban,Y
+LP001819,Male,20,Yes,1,Mombasa,Not Graduate,No,6608,0,137,24/04/2018,180,1,Urban,Y
+LP001824,Male,26,Yes,1,Mombasa,Graduate,No,2882,1843,123,6/3/2018,480,1,Semiurban,Y
+LP001825,Male,18,Yes,0,Kiambu,Graduate,No,1809,1868,90,26/03/2017,360,1,Urban,Y
+LP001835,Male,19,Yes,0,Kiambu,Not Graduate,No,1668,3890,201,22/12/2018,360,0,Semiurban,N
+LP001836,Female,34,No,2,Machakos,Graduate,No,3427,0,138,9/11/2017,360,1,Urban,N
+LP001841,Male,41,No,0,Nairobi,Not Graduate,Yes,2583,2167,104,10/7/2017,360,1,Rural,Y
+LP001843,Male,18,Yes,1,Mombasa,Not Graduate,No,2661,7101,279,26/02/2018,180,1,Semiurban,Y
+LP001844,Male,41,No,0,Machakos,Graduate,Yes,16250,0,192,10/3/2017,360,0,Urban,N
+LP001846,Female,23,No,3+,Kiambu,Graduate,No,3083,0,255,6/3/2017,360,1,Rural,Y
+LP001849,Male,18,No,0,Nairobi,Not Graduate,No,6045,0,115,27/06/2017,360,0,Rural,N
+LP001854,Male,22,Yes,3+,Nairobi,Graduate,No,5250,0,94,11/7/2017,360,1,Urban,N
+LP001859,Male,31,Yes,0,Mombasa,Graduate,No,14683,2100,304,18/11/2017,360,1,Rural,N
+LP001864,Male,24,Yes,3+,Machakos,Not Graduate,No,4931,0,128,1/11/2017,360,,Semiurban,N
+LP001865,Male,22,Yes,1,Nairobi,Graduate,No,6083,4250,330,8/2/2017,360,,Urban,Y
+LP001868,Male,39,No,0,Machakos,Graduate,No,2060,2209,134,25/11/2017,360,1,Semiurban,Y
+LP001870,Female,40,No,1,Mombasa,Graduate,No,3481,0,155,21/11/2018,36,1,Semiurban,N
+LP001871,Female,41,No,0,Machakos,Graduate,No,7200,0,120,23/01/2017,360,1,Rural,Y
+LP001872,Male,33,No,0,Nairobi,Graduate,Yes,5166,0,128,2/7/2018,360,1,Semiurban,Y
+LP001875,Male,44,No,0,Mombasa,Graduate,No,4095,3447,151,23/09/2017,360,1,Rural,Y
+LP001877,Male,29,Yes,2,Kiambu,Graduate,No,4708,1387,150,17/06/2017,360,1,Semiurban,Y
+LP001882,Male,28,Yes,3+,Nairobi,Graduate,No,4333,1811,160,4/6/2017,360,0,Urban,Y
+LP001883,Female,27,No,0,Mombasa,Graduate,,3418,0,135,20/02/2018,360,1,Rural,N
+LP001884,Female,41,No,1,Mombasa,Graduate,No,2876,1560,90,26/08/2017,360,1,Urban,Y
+LP001888,Female,44,No,0,Kiambu,Graduate,No,3237,0,30,5/3/2017,360,1,Urban,Y
+LP001891,Male,38,Yes,0,Kiambu,Graduate,No,11146,0,136,18/05/2018,360,1,Urban,Y
+LP001892,Male,28,No,0,Mombasa,Graduate,No,2833,1857,126,20/01/2017,360,1,Rural,Y
+LP001894,Male,40,Yes,0,Mombasa,Graduate,No,2620,2223,150,9/9/2017,360,1,Semiurban,Y
+LP001896,Male,30,Yes,2,Mombasa,Graduate,No,3900,0,90,13/12/2017,360,1,Semiurban,Y
+LP001900,Male,18,Yes,1,Machakos,Graduate,No,2750,1842,115,25/05/2018,360,1,Semiurban,Y
+LP001903,Male,39,Yes,0,Nairobi,Graduate,No,3993,3274,207,5/11/2018,360,1,Semiurban,Y
+LP001904,Male,20,Yes,0,Machakos,Graduate,No,3103,1300,80,27/05/2017,360,1,Urban,Y
+LP001907,Male,45,Yes,0,Machakos,Graduate,No,14583,0,436,29/04/2018,360,1,Semiurban,Y
+LP001908,Female,38,Yes,0,Machakos,Not Graduate,No,4100,0,124,12/9/2018,360,,Rural,Y
+LP001910,Male,32,No,1,Kiambu,Not Graduate,Yes,4053,2426,158,5/5/2017,360,0,Urban,N
+LP001914,Male,28,Yes,0,Machakos,Graduate,No,3927,800,112,16/04/2017,360,1,Semiurban,Y
+LP001915,Male,24,Yes,2,Mombasa,Graduate,No,2301,985.7999878,78,24/05/2017,180,1,Urban,Y
+LP001917,Female,43,No,0,Kiambu,Graduate,No,1811,1666,54,25/07/2018,360,1,Urban,Y
+LP001922,Male,31,Yes,0,Nairobi,Graduate,No,20667,0,,4/6/2017,360,1,Rural,N
+LP001924,Male,21,No,0,Kiambu,Graduate,No,3158,3053,89,23/07/2018,360,1,Rural,Y
+LP001925,Female,23,No,0,Nairobi,Graduate,Yes,2600,1717,99,24/05/2018,300,1,Semiurban,N
+LP001926,Male,44,Yes,0,Kiambu,Graduate,No,3704,2000,120,25/05/2018,360,1,Rural,Y
+LP001931,Female,22,No,0,Machakos,Graduate,No,4124,0,115,19/04/2018,360,1,Semiurban,Y
+LP001935,Male,37,No,0,Mombasa,Graduate,No,9508,0,187,26/03/2017,360,1,Rural,Y
+LP001936,Male,44,Yes,0,Mombasa,Graduate,No,3075,2416,139,23/04/2018,360,1,Rural,Y
+LP001938,Male,45,Yes,2,Kiambu,Graduate,No,4400,0,127,12/8/2017,360,0,Semiurban,N
+LP001940,Male,43,Yes,2,Mombasa,Graduate,No,3153,1560,134,19/10/2017,360,1,Urban,Y
+LP001945,Female,31,No,,Kiambu,Graduate,No,5417,0,143,22/07/2018,480,0,Urban,N
+LP001947,Male,21,Yes,0,Kiambu,Graduate,No,2383,3334,172,15/08/2018,360,1,Semiurban,Y
+LP001949,Male,18,Yes,3+,Kiambu,Graduate,,4416,1250,110,25/01/2017,360,1,Urban,Y
+LP001953,Male,32,Yes,1,Nairobi,Graduate,No,6875,0,200,7/5/2018,360,1,Semiurban,Y
+LP001954,Female,18,Yes,1,Nairobi,Graduate,No,4666,0,135,13/05/2018,360,1,Urban,Y
+LP001955,Female,25,No,0,Nairobi,Graduate,No,5000,2541,151,23/01/2017,480,1,Rural,N
+LP001963,Male,41,Yes,1,Nairobi,Graduate,No,2014,2925,113,16/01/2017,360,1,Urban,N
+LP001964,Male,22,Yes,0,Mombasa,Not Graduate,No,1800,2934,93,29/01/2017,360,0,Urban,N
+LP001972,Male,24,Yes,,Machakos,Not Graduate,No,2875,1750,105,28/07/2017,360,1,Semiurban,Y
+LP001974,Female,33,No,0,Nairobi,Graduate,No,5000,0,132,21/02/2017,360,1,Rural,Y
+LP001977,Male,41,Yes,1,Machakos,Graduate,No,1625,1803,96,21/09/2018,360,1,Urban,Y
+LP001978,Male,25,No,0,Mombasa,Graduate,No,4000,2500,140,15/05/2017,360,1,Rural,Y
+LP001990,Male,31,No,0,Nairobi,Not Graduate,No,2000,0,,7/10/2018,360,1,Urban,N
+LP001993,Female,43,No,0,Nairobi,Graduate,No,3762,1666,135,2/1/2017,360,1,Rural,Y
+LP001994,Female,36,No,0,Kiambu,Graduate,No,2400,1863,104,14/04/2017,360,0,Urban,N
+LP001996,Male,26,No,0,Kiambu,Graduate,No,20233,0,480,6/7/2017,360,1,Rural,N
+LP001998,Male,34,Yes,2,Machakos,Not Graduate,No,7667,0,185,8/6/2017,360,,Rural,Y
+LP002002,Female,41,No,0,Nairobi,Graduate,No,2917,0,84,27/11/2017,360,1,Semiurban,Y
+LP002004,Male,29,No,0,Kiambu,Not Graduate,No,2927,2405,111,18/06/2018,360,1,Semiurban,Y
+LP002006,Female,37,No,0,Nairobi,Graduate,No,2507,0,56,5/9/2018,360,1,Rural,Y
+LP002008,Male,22,Yes,2,Mombasa,Graduate,Yes,5746,0,144,16/04/2018,84,,Rural,Y
+LP002024,,28,Yes,0,Nairobi,Graduate,No,2473,1843,159,29/09/2017,360,1,Rural,N
+LP002031,Male,35,Yes,1,Machakos,Not Graduate,No,3399,1640,111,7/12/2017,180,1,Urban,Y
+LP002035,Male,30,Yes,2,Nairobi,Graduate,No,3717,0,120,23/10/2018,360,1,Semiurban,Y
+LP002036,Male,39,Yes,0,Kiambu,Graduate,No,2058,2134,88,22/09/2017,360,,Urban,Y
+LP002043,Female,32,No,1,Nairobi,Graduate,No,3541,0,112,8/8/2018,360,,Semiurban,Y
+LP002050,Male,19,Yes,1,Mombasa,Graduate,Yes,10000,0,155,25/01/2017,360,1,Rural,N
+LP002051,Male,37,Yes,0,Nairobi,Graduate,No,2400,2167,115,10/5/2017,360,1,Semiurban,Y
+LP002053,Male,38,Yes,3+,Mombasa,Graduate,No,4342,189,124,17/02/2018,360,1,Semiurban,Y
+LP002054,Male,18,Yes,2,Machakos,Not Graduate,No,3601,1590,,22/05/2017,360,1,Rural,Y
+LP002055,Female,22,No,0,Kiambu,Graduate,No,3166,2985,132,19/10/2018,360,,Rural,Y
+LP002065,Male,30,Yes,3+,Mombasa,Graduate,No,15000,0,300,29/11/2018,360,1,Rural,Y
+LP002067,Male,34,Yes,1,Nairobi,Graduate,Yes,8666,4983,376,7/4/2018,360,0,Rural,N
+LP002068,Male,19,No,0,Machakos,Graduate,No,4917,0,130,28/05/2017,360,0,Rural,Y
+LP002082,Male,43,Yes,0,Kiambu,Graduate,Yes,5818,2160,184,8/1/2017,360,1,Semiurban,Y
+LP002086,Female,28,Yes,0,Machakos,Graduate,No,4333,2451,110,12/10/2017,360,1,Urban,N
+LP002087,Female,44,No,0,Machakos,Graduate,No,2500,0,67,21/08/2018,360,1,Urban,Y
+LP002097,Male,24,No,1,Kiambu,Graduate,No,4384,1793,117,23/10/2018,360,1,Urban,Y
+LP002098,Male,25,No,0,Nairobi,Graduate,No,2935,0,98,12/7/2017,360,1,Semiurban,Y
+LP002100,Male,22,No,,Machakos,Graduate,No,2833,0,71,8/7/2018,360,1,Urban,Y
+LP002101,Male,25,Yes,0,Nairobi,Graduate,,63337,0,490,28/12/2018,180,1,Urban,Y
+LP002103,,43,Yes,1,Machakos,Graduate,Yes,9833,1833,182,12/9/2018,180,1,Urban,Y
+LP002106,Male,42,Yes,,Nairobi,Graduate,Yes,5503,4490,70,22/06/2017,,1,Semiurban,Y
+LP002110,Male,35,Yes,1,Kiambu,Graduate,,5250,688,160,8/9/2017,360,1,Rural,Y
+LP002112,Male,40,Yes,2,Nairobi,Graduate,Yes,2500,4600,176,9/4/2017,360,1,Rural,Y
+LP002113,Female,28,No,3+,Nairobi,Not Graduate,No,1830,0,,27/01/2017,360,0,Urban,N
+LP002114,Female,26,No,0,Machakos,Graduate,No,4160,0,71,10/8/2018,360,1,Semiurban,Y
+LP002115,Male,39,Yes,3+,Kiambu,Not Graduate,No,2647,1587,173,9/1/2018,360,1,Rural,N
+LP002116,Female,30,No,0,Mombasa,Graduate,No,2378,0,46,25/03/2017,360,1,Rural,N
+LP002119,Male,19,Yes,1,Machakos,Not Graduate,No,4554,1229,158,29/07/2018,360,1,Urban,Y
+LP002126,Male,19,Yes,3+,Kiambu,Not Graduate,No,3173,0,74,19/12/2017,360,1,Semiurban,Y
+LP002128,Male,43,Yes,2,Mombasa,Graduate,,2583,2330,125,12/5/2017,360,1,Rural,Y
+LP002129,Male,37,Yes,0,Mombasa,Graduate,No,2499,2458,160,13/05/2017,360,1,Semiurban,Y
+LP002130,Male,25,Yes,,Nairobi,Not Graduate,No,3523,3230,152,16/04/2018,360,0,Rural,N
+LP002131,Male,35,Yes,2,Mombasa,Not Graduate,No,3083,2168,126,25/10/2018,360,1,Urban,Y
+LP002137,Male,35,Yes,0,Nairobi,Graduate,No,6333,4583,259,21/09/2017,360,,Semiurban,Y
+LP002138,Male,35,Yes,0,Kiambu,Graduate,No,2625,6250,187,29/12/2017,360,1,Rural,Y
+LP002139,Male,40,Yes,0,Mombasa,Graduate,No,9083,0,228,6/11/2017,360,1,Semiurban,Y
+LP002140,Male,22,No,0,Nairobi,Graduate,No,8750,4167,308,10/12/2018,360,1,Rural,N
+LP002141,Male,43,Yes,3+,Kiambu,Graduate,No,2666,2083,95,27/09/2017,360,1,Rural,Y
+LP002142,Female,38,Yes,0,Mombasa,Graduate,Yes,5500,0,105,19/04/2018,360,0,Rural,N
+LP002143,Female,19,Yes,0,Nairobi,Graduate,No,2423,505,130,18/06/2018,360,1,Semiurban,Y
+LP002144,Female,28,No,,Machakos,Graduate,No,3813,0,116,12/5/2017,180,1,Urban,Y
+LP002149,Male,43,Yes,2,Kiambu,Graduate,No,8333,3167,165,22/07/2017,360,1,Rural,Y
+LP002151,Male,18,Yes,1,Machakos,Graduate,No,3875,0,67,10/10/2018,360,1,Urban,N
+LP002158,Male,26,Yes,0,Machakos,Not Graduate,No,3000,1666,100,25/12/2017,480,0,Urban,N
+LP002160,Male,25,Yes,3+,Mombasa,Graduate,No,5167,3167,200,9/10/2017,360,1,Semiurban,Y
+LP002161,Female,42,No,1,Machakos,Graduate,No,4723,0,81,27/03/2018,360,1,Semiurban,N
+LP002170,Male,36,Yes,2,Machakos,Graduate,No,5000,3667,236,9/5/2017,360,1,Semiurban,Y
+LP002175,Male,21,Yes,0,Nairobi,Graduate,No,4750,2333,130,28/11/2017,360,1,Urban,Y
+LP002178,Male,40,Yes,0,Mombasa,Graduate,No,3013,3033,95,3/2/2017,300,,Urban,Y
+LP002180,Male,33,No,0,Machakos,Graduate,Yes,6822,0,141,8/8/2017,360,1,Rural,Y
+LP002181,Male,31,No,0,Mombasa,Not Graduate,No,6216,0,133,10/7/2017,360,1,Rural,N
+LP002187,Male,30,No,0,Nairobi,Graduate,No,2500,0,96,25/01/2017,480,1,Semiurban,N
+LP002188,Male,30,No,0,Mombasa,Graduate,No,5124,0,124,23/04/2018,,0,Rural,N
+LP002190,Male,44,Yes,1,Mombasa,Graduate,No,6325,0,175,31/12/2017,360,1,Semiurban,Y
+LP002191,Male,20,Yes,0,Mombasa,Graduate,No,19730,5266,570,13/05/2018,360,1,Rural,N
+LP002194,Female,20,No,0,Nairobi,Graduate,Yes,15759,0,55,23/09/2018,360,1,Semiurban,Y
+LP002197,Male,36,Yes,2,Nairobi,Graduate,No,5185,0,155,11/6/2017,360,1,Semiurban,Y
+LP002201,Male,23,Yes,2,Machakos,Graduate,Yes,9323,7873,380,26/06/2018,300,1,Rural,Y
+LP002205,Male,27,No,1,Nairobi,Graduate,No,3062,1987,111,1/2/2017,180,0,Urban,N
+LP002209,Female,43,No,0,Mombasa,Graduate,,2764,1459,110,14/10/2018,360,1,Urban,Y
+LP002211,Male,31,Yes,0,Kiambu,Graduate,No,4817,923,120,31/12/2017,180,1,Urban,Y
+LP002219,Male,45,Yes,3+,Nairobi,Graduate,No,8750,4996,130,6/1/2018,360,1,Rural,Y
+LP002223,Male,35,Yes,0,Machakos,Graduate,No,4310,0,130,14/05/2018,360,,Semiurban,Y
+LP002224,Male,30,No,0,Nairobi,Graduate,No,3069,0,71,11/7/2017,480,1,Urban,N
+LP002225,Male,21,Yes,2,Nairobi,Graduate,No,5391,0,130,6/1/2017,360,1,Urban,Y
+LP002226,Male,25,Yes,0,Machakos,Graduate,,3333,2500,128,19/07/2017,360,1,Semiurban,Y
+LP002229,Male,26,No,0,Mombasa,Graduate,No,5941,4232,296,19/03/2018,360,1,Semiurban,Y
+LP002231,Female,26,No,0,Machakos,Graduate,No,6000,0,156,4/9/2017,360,1,Urban,Y
+LP002234,Male,38,No,0,Nairobi,Graduate,Yes,7167,0,128,15/10/2018,360,1,Urban,Y
+LP002236,Male,30,Yes,2,Mombasa,Graduate,No,4566,0,100,23/05/2017,360,1,Urban,N
+LP002237,Male,37,No,1,Nairobi,Graduate,,3667,0,113,29/08/2017,180,1,Urban,Y
+LP002239,Male,34,No,0,Mombasa,Not Graduate,No,2346,1600,132,28/03/2017,360,1,Semiurban,Y
+LP002243,Male,33,Yes,0,Machakos,Not Graduate,No,3010,3136,,15/09/2018,360,0,Urban,N
+LP002244,Male,39,Yes,0,Mombasa,Graduate,No,2333,2417,136,15/07/2018,360,1,Urban,Y
+LP002250,Male,45,Yes,0,Machakos,Graduate,No,5488,0,125,5/4/2017,360,1,Rural,Y
+LP002255,Male,19,No,3+,Mombasa,Graduate,No,9167,0,185,22/09/2018,360,1,Rural,Y
+LP002262,Male,31,Yes,3+,Machakos,Graduate,No,9504,0,275,7/4/2018,360,1,Rural,Y
+LP002263,Male,22,Yes,0,Kiambu,Graduate,No,2583,2115,120,3/5/2018,360,,Urban,Y
+LP002265,Male,33,Yes,2,Kiambu,Not Graduate,No,1993,1625,113,14/02/2017,180,1,Semiurban,Y
+LP002266,Male,27,Yes,2,Kiambu,Graduate,No,3100,1400,113,14/07/2017,360,1,Urban,Y
+LP002272,Male,31,Yes,2,Machakos,Graduate,No,3276,484,135,22/03/2017,360,,Semiurban,Y
+LP002277,Female,26,No,0,Machakos,Graduate,No,3180,0,71,30/11/2018,360,0,Urban,N
+LP002281,Male,29,Yes,0,Nairobi,Graduate,No,3033,1459,95,23/08/2017,360,1,Urban,Y
+LP002284,Male,25,No,0,Kiambu,Not Graduate,No,3902,1666,109,14/09/2017,360,1,Rural,Y
+LP002287,Female,24,No,0,Machakos,Graduate,No,1500,1800,103,31/03/2018,360,0,Semiurban,N
+LP002288,Male,19,Yes,2,Machakos,Not Graduate,No,2889,0,45,15/02/2018,180,0,Urban,N
+LP002296,Male,43,No,0,Mombasa,Not Graduate,No,2755,0,65,18/08/2018,300,1,Rural,N
+LP002297,Male,41,No,0,Machakos,Graduate,No,2500,20000,103,24/12/2018,360,1,Semiurban,Y
+LP002300,Female,41,No,0,Kiambu,Not Graduate,No,1963,0,53,6/7/2017,360,1,Semiurban,Y
+LP002301,Female,33,No,0,Nairobi,Graduate,Yes,7441,0,194,21/07/2017,360,1,Rural,N
+LP002305,Female,31,No,0,Machakos,Graduate,No,4547,0,115,9/10/2018,360,1,Semiurban,Y
+LP002308,Male,33,Yes,0,Mombasa,Not Graduate,No,2167,2400,115,19/02/2018,360,1,Urban,Y
+LP002314,Female,19,No,0,Nairobi,Not Graduate,No,2213,0,66,17/10/2018,360,1,Rural,Y
+LP002315,Male,40,Yes,1,Machakos,Graduate,No,8300,0,152,18/04/2018,300,0,Semiurban,N
+LP002317,Male,33,Yes,3+,Machakos,Graduate,No,81000,0,360,2/8/2017,360,0,Rural,N
+LP002318,Female,40,No,1,Nairobi,Not Graduate,Yes,3867,0,62,4/11/2018,360,1,Semiurban,N
+LP002319,Male,45,Yes,0,Nairobi,Graduate,,6256,0,160,8/4/2018,360,,Urban,Y
+LP002328,Male,39,Yes,0,Machakos,Not Graduate,No,6096,0,218,27/08/2018,360,0,Rural,N
+LP002332,Male,42,Yes,0,Nairobi,Not Graduate,No,2253,2033,110,17/02/2017,360,1,Rural,Y
+LP002335,Female,31,Yes,0,Nairobi,Not Graduate,No,2149,3237,178,30/05/2017,360,0,Semiurban,N
+LP002337,Female,26,No,0,Kiambu,Graduate,No,2995,0,60,17/10/2018,360,1,Urban,Y
+LP002341,Female,30,No,1,Kiambu,Graduate,No,2600,0,160,9/12/2017,360,1,Urban,N
+LP002342,Male,34,Yes,2,Machakos,Graduate,Yes,1600,20000,239,4/3/2017,360,1,Urban,N
+LP002345,Male,31,Yes,0,Nairobi,Graduate,No,1025,2773,112,9/5/2018,360,1,Rural,Y
+LP002347,Male,38,Yes,0,Kiambu,Graduate,No,3246,1417,138,20/07/2018,360,1,Semiurban,Y
+LP002348,Male,30,Yes,0,Kiambu,Graduate,No,5829,0,138,4/7/2018,360,1,Rural,Y
+LP002357,Female,44,No,0,Kiambu,Not Graduate,No,2720,0,80,14/09/2017,,0,Urban,N
+LP002361,Male,25,Yes,0,Mombasa,Graduate,No,1820,1719,100,20/04/2017,360,1,Urban,Y
+LP002362,Male,38,Yes,1,Kiambu,Graduate,No,7250,1667,110,15/08/2017,,0,Urban,N
+LP002364,Male,21,Yes,0,Kiambu,Graduate,No,14880,0,96,20/03/2017,360,1,Semiurban,Y
+LP002366,Male,43,Yes,0,Nairobi,Graduate,No,2666,4300,121,4/9/2018,360,1,Rural,Y
+LP002367,Female,31,No,1,Mombasa,Not Graduate,No,4606,0,81,18/12/2018,360,1,Rural,N
+LP002368,Male,25,Yes,2,Kiambu,Graduate,No,5935,0,133,26/10/2018,360,1,Semiurban,Y
+LP002369,Male,42,Yes,0,Machakos,Graduate,No,2920,16.12000084,87,17/08/2017,360,1,Rural,Y
+LP002370,Male,28,No,0,Nairobi,Not Graduate,No,2717,0,60,5/9/2017,180,1,Urban,Y
+LP002377,Female,39,No,1,Machakos,Graduate,Yes,8624,0,150,15/07/2018,360,1,Semiurban,Y
+LP002379,Male,22,No,0,Nairobi,Graduate,No,6500,0,105,1/12/2018,360,0,Rural,N
+LP002386,Male,45,No,0,Mombasa,Graduate,,12876,0,405,29/06/2018,360,1,Semiurban,Y
+LP002387,Male,45,Yes,0,Kiambu,Graduate,No,2425,2340,143,31/05/2017,360,1,Semiurban,Y
+LP002390,Male,39,No,0,Kiambu,Graduate,No,3750,0,100,19/12/2017,360,1,Urban,Y
+LP002393,Female,39,,,Machakos,Graduate,No,10047,0,,15/01/2018,240,1,Semiurban,Y
+LP002398,Male,31,No,0,Nairobi,Graduate,No,1926,1851,50,10/2/2017,360,1,Semiurban,Y
+LP002401,Male,39,Yes,0,Nairobi,Graduate,No,2213,1125,,7/4/2017,360,1,Urban,Y
+LP002403,Male,19,No,0,Kiambu,Graduate,Yes,10416,0,187,17/03/2018,360,0,Urban,N
+LP002407,Female,41,Yes,0,Nairobi,Not Graduate,Yes,7142,0,138,5/10/2017,360,1,Rural,Y
+LP002408,Male,42,No,0,Kiambu,Graduate,No,3660,5064,187,25/06/2018,360,1,Semiurban,Y
+LP002409,Male,30,Yes,0,Mombasa,Graduate,No,7901,1833,180,11/3/2018,360,1,Rural,Y
+LP002418,Male,29,No,3+,Machakos,Not Graduate,No,4707,1993,148,29/07/2018,360,1,Semiurban,Y
+LP002422,Male,39,No,1,Kiambu,Graduate,No,37719,0,152,2/4/2018,360,1,Semiurban,Y
+LP002424,Male,29,Yes,0,Machakos,Graduate,No,7333,8333,175,8/2/2018,300,,Rural,Y
+LP002429,Male,23,Yes,1,Kiambu,Graduate,Yes,3466,1210,130,14/04/2018,360,1,Rural,Y
+LP002434,Male,27,Yes,2,Kiambu,Not Graduate,No,4652,0,110,30/11/2018,360,1,Rural,Y
+LP002435,Male,24,Yes,0,Machakos,Graduate,,3539,1376,55,20/07/2017,360,1,Rural,N
+LP002443,Male,34,Yes,2,Kiambu,Graduate,No,3340,1710,150,11/12/2017,360,0,Rural,N
+LP002444,Male,41,No,1,Kiambu,Not Graduate,Yes,2769,1542,190,28/10/2017,360,,Semiurban,N
+LP002446,Male,27,Yes,2,Kiambu,Not Graduate,No,2309,1255,125,21/04/2018,360,0,Rural,N
+LP002447,Male,22,Yes,2,Nairobi,Not Graduate,No,1958,1456,60,18/11/2018,300,,Urban,Y
+LP002448,Male,26,Yes,0,Nairobi,Graduate,No,3948,1733,149,28/11/2018,360,0,Rural,N
+LP002449,Male,20,Yes,0,Machakos,Graduate,No,2483,2466,90,4/4/2018,180,0,Rural,Y
+LP002453,Male,37,No,0,Nairobi,Graduate,Yes,7085,0,84,24/06/2017,360,1,Semiurban,Y
+LP002455,Male,29,Yes,2,Kiambu,Graduate,No,3859,0,96,21/08/2017,360,1,Semiurban,Y
+LP002459,Male,21,Yes,0,Nairobi,Graduate,No,4301,0,118,20/01/2017,360,1,Urban,Y
+LP002467,Male,19,Yes,0,Kiambu,Graduate,No,3708,2569,173,30/03/2017,360,1,Urban,N
+LP002472,Male,36,No,2,Machakos,Graduate,No,4354,0,136,13/12/2017,360,1,Rural,Y
+LP002473,Male,32,Yes,0,Kiambu,Graduate,No,8334,0,160,2/2/2017,360,1,Semiurban,N
+LP002478,,18,Yes,0,Nairobi,Graduate,Yes,2083,4083,160,1/10/2018,360,,Semiurban,Y
+LP002484,Male,25,Yes,3+,Machakos,Graduate,No,7740,0,128,7/11/2018,180,1,Urban,Y
+LP002487,Male,21,Yes,0,Kiambu,Graduate,No,3015,2188,153,15/07/2018,360,1,Rural,Y
+LP002489,Female,34,No,1,Machakos,Not Graduate,,5191,0,132,15/04/2017,360,1,Semiurban,Y
+LP002493,Male,30,No,0,Nairobi,Graduate,No,4166,0,98,19/04/2017,360,0,Semiurban,N
+LP002494,Male,34,No,0,Nairobi,Graduate,No,6000,0,140,26/01/2018,360,1,Rural,Y
+LP002500,Male,41,Yes,3+,Kiambu,Not Graduate,No,2947,1664,70,14/08/2017,180,0,Urban,N
+LP002501,,20,Yes,0,Nairobi,Graduate,No,16692,0,110,18/02/2017,360,1,Semiurban,Y
+LP002502,Female,36,Yes,2,Mombasa,Not Graduate,,210,2917,98,3/10/2018,360,1,Semiurban,Y
+LP002505,Male,26,Yes,0,Nairobi,Graduate,No,4333,2451,110,15/05/2018,360,1,Urban,N
+LP002515,Male,40,Yes,1,Mombasa,Graduate,Yes,3450,2079,162,30/09/2017,360,1,Semiurban,Y
+LP002517,Male,38,Yes,1,Nairobi,Not Graduate,No,2653,1500,113,13/02/2017,180,0,Rural,N
+LP002519,Male,33,Yes,3+,Machakos,Graduate,No,4691,0,100,1/5/2018,360,1,Semiurban,Y
+LP002522,Female,22,No,0,Mombasa,Graduate,Yes,2500,0,93,7/1/2017,360,,Urban,Y
+LP002524,Male,22,No,2,Nairobi,Graduate,No,5532,4648,162,22/02/2017,360,1,Rural,Y
+LP002527,Male,29,Yes,2,Nairobi,Graduate,Yes,16525,1014,150,12/10/2017,360,1,Rural,Y
+LP002529,Male,31,Yes,2,Machakos,Graduate,No,6700,1750,230,1/10/2018,300,1,Semiurban,Y
+LP002530,,38,Yes,2,Mombasa,Graduate,No,2873,1872,132,16/09/2018,360,0,Semiurban,N
+LP002531,Male,37,Yes,1,Mombasa,Graduate,Yes,16667,2250,86,28/02/2018,360,1,Semiurban,Y
+LP002533,Male,41,Yes,2,Nairobi,Graduate,No,2947,1603,,11/6/2018,360,1,Urban,N
+LP002534,Female,44,No,0,Nairobi,Not Graduate,No,4350,0,154,28/02/2017,360,1,Rural,Y
+LP002536,Male,30,Yes,3+,Nairobi,Not Graduate,No,3095,0,113,20/02/2018,360,1,Rural,Y
+LP002537,Male,23,Yes,0,Mombasa,Graduate,No,2083,3150,128,27/08/2018,360,1,Semiurban,Y
+LP002541,Male,30,Yes,0,Machakos,Graduate,No,10833,0,234,3/1/2017,360,1,Semiurban,Y
+LP002543,Male,25,Yes,2,Machakos,Graduate,No,8333,0,246,9/9/2018,360,1,Semiurban,Y
+LP002544,Male,43,Yes,1,Nairobi,Not Graduate,No,1958,2436,131,7/9/2018,360,1,Rural,Y
+LP002545,Male,21,No,2,Mombasa,Graduate,No,3547,0,80,25/12/2018,360,0,Rural,N
+LP002547,Male,29,Yes,1,Kiambu,Graduate,No,18333,0,500,26/11/2017,360,1,Urban,N
+LP002555,Male,18,Yes,2,Kiambu,Graduate,Yes,4583,2083,160,28/09/2018,360,1,Semiurban,Y
+LP002556,Male,22,No,0,Machakos,Graduate,No,2435,0,75,21/11/2018,360,1,Urban,N
+LP002560,Male,41,No,0,Mombasa,Not Graduate,No,2699,2785,96,7/10/2018,360,,Semiurban,Y
+LP002562,Male,38,Yes,1,Nairobi,Not Graduate,No,5333,1131,186,24/07/2018,360,,Urban,Y
+LP002571,Male,19,No,0,Kiambu,Not Graduate,No,3691,0,110,5/2/2018,360,1,Rural,Y
+LP002582,Female,35,No,0,Mombasa,Not Graduate,Yes,17263,0,225,5/6/2018,360,1,Semiurban,Y
+LP002585,Male,45,Yes,0,Machakos,Graduate,No,3597,2157,119,19/10/2017,360,0,Rural,N
+LP002586,Female,43,Yes,1,Nairobi,Graduate,No,3326,913,105,21/07/2017,84,1,Semiurban,Y
+LP002587,Male,18,Yes,0,Machakos,Not Graduate,No,2600,1700,107,6/5/2018,360,1,Rural,Y
+LP002588,Male,43,Yes,0,Machakos,Graduate,No,4625,2857,111,21/06/2018,12,,Urban,Y
+LP002600,Male,28,Yes,1,Mombasa,Graduate,Yes,2895,0,95,15/04/2017,360,1,Semiurban,Y
+LP002602,Male,43,No,0,Machakos,Graduate,No,6283,4416,209,21/02/2018,360,0,Rural,N
+LP002603,Female,21,No,0,Mombasa,Graduate,No,645,3683,113,2/11/2017,480,1,Rural,Y
+LP002606,Female,45,No,0,Kiambu,Graduate,No,3159,0,100,9/5/2018,360,1,Semiurban,Y
+LP002615,Male,38,Yes,2,Nairobi,Graduate,No,4865,5624,208,31/10/2018,360,1,Semiurban,Y
+LP002618,Male,19,Yes,1,Machakos,Not Graduate,No,4050,5302,138,6/2/2017,360,,Rural,N
+LP002619,Male,22,Yes,0,Kiambu,Not Graduate,No,3814,1483,124,23/10/2018,300,1,Semiurban,Y
+LP002622,Male,40,Yes,2,Kiambu,Graduate,No,3510,4416,243,15/02/2017,360,1,Rural,Y
+LP002624,Male,43,Yes,0,Nairobi,Graduate,No,20833,6667,480,4/5/2017,360,,Urban,Y
+LP002625,,24,No,0,Machakos,Graduate,No,3583,0,96,16/02/2018,360,1,Urban,N
+LP002626,Male,37,Yes,0,Nairobi,Graduate,Yes,2479,3013,188,13/11/2017,360,1,Urban,Y
+LP002634,Female,21,No,1,Machakos,Graduate,No,13262,0,40,28/10/2017,360,1,Urban,Y
+LP002637,Male,33,No,0,Kiambu,Not Graduate,No,3598,1287,100,25/07/2018,360,1,Rural,N
+LP002640,Male,37,Yes,1,Nairobi,Graduate,No,6065,2004,250,3/3/2017,360,1,Semiurban,Y
+LP002643,Male,39,Yes,2,Machakos,Graduate,No,3283,2035,148,17/08/2018,360,1,Urban,Y
+LP002648,Male,38,Yes,0,Mombasa,Graduate,No,2130,6666,70,21/04/2018,180,1,Semiurban,N
+LP002652,Male,18,No,0,Mombasa,Graduate,No,5815,3666,311,11/3/2017,360,1,Rural,N
+LP002659,Male,38,Yes,3+,Mombasa,Graduate,No,3466,3428,150,3/7/2018,360,1,Rural,Y
+LP002670,Female,36,Yes,2,Kiambu,Graduate,No,2031,1632,113,6/3/2017,480,1,Semiurban,Y
+LP002682,Male,25,Yes,,Kiambu,Not Graduate,No,3074,1800,123,8/9/2017,360,0,Semiurban,N
+LP002683,Male,34,No,0,Mombasa,Graduate,No,4683,1915,185,26/02/2017,360,1,Semiurban,N
+LP002684,Female,34,No,0,Mombasa,Not Graduate,No,3400,0,95,11/9/2017,360,1,Rural,N
+LP002689,Male,35,Yes,2,Mombasa,Not Graduate,No,2192,1742,45,2/12/2018,360,1,Semiurban,Y
+LP002690,Male,39,No,0,Mombasa,Graduate,No,2500,0,55,22/08/2017,360,1,Semiurban,Y
+LP002692,Male,43,Yes,3+,Machakos,Graduate,Yes,5677,1424,100,5/7/2018,360,1,Rural,Y
+LP002693,Male,37,Yes,2,Machakos,Graduate,Yes,7948,7166,480,24/03/2017,360,1,Rural,Y
+LP002697,Male,43,No,0,Kiambu,Graduate,No,4680,2087,,25/07/2018,360,1,Semiurban,N
+LP002699,Male,40,Yes,2,Kiambu,Graduate,Yes,17500,0,400,31/07/2018,360,1,Rural,Y
+LP002705,Male,42,Yes,0,Mombasa,Graduate,No,3775,0,110,10/4/2018,360,1,Semiurban,Y
+LP002706,Male,36,Yes,1,Kiambu,Not Graduate,No,5285,1430,161,1/4/2018,360,0,Semiurban,Y
+LP002714,Male,19,No,1,Nairobi,Not Graduate,No,2679,1302,94,9/6/2017,360,1,Semiurban,Y
+LP002716,Male,28,No,0,Nairobi,Not Graduate,No,6783,0,130,14/01/2018,360,1,Semiurban,Y
+LP002717,Male,22,Yes,0,Machakos,Graduate,No,1025,5500,216,25/09/2017,360,,Rural,Y
+LP002720,Male,22,Yes,3+,Mombasa,Graduate,No,4281,0,100,18/11/2018,360,1,Urban,Y
+LP002723,Male,36,No,2,Mombasa,Graduate,No,3588,0,110,18/07/2018,360,0,Rural,N
+LP002729,Male,19,No,1,Nairobi,Graduate,No,11250,0,196,16/03/2018,360,,Semiurban,N
+LP002731,Female,39,No,0,Kiambu,Not Graduate,Yes,18165,0,125,5/1/2017,360,1,Urban,Y
+LP002732,Male,36,No,0,Mombasa,Not Graduate,,2550,2042,126,18/01/2018,360,1,Rural,Y
+LP002734,Male,43,Yes,0,Nairobi,Graduate,No,6133,3906,324,3/2/2018,360,1,Urban,Y
+LP002738,Male,21,No,2,Kiambu,Graduate,No,3617,0,107,7/6/2018,360,1,Semiurban,Y
+LP002739,Male,34,Yes,0,Machakos,Not Graduate,No,2917,536,66,23/07/2018,360,1,Rural,N
+LP002740,Male,32,Yes,3+,Mombasa,Graduate,No,6417,0,157,1/3/2018,180,1,Rural,Y
+LP002741,Female,35,Yes,1,Kiambu,Graduate,No,4608,2845,140,22/06/2018,180,1,Semiurban,Y
+LP002743,Female,35,No,0,Nairobi,Graduate,No,2138,0,99,17/03/2017,360,0,Semiurban,N
+LP002753,Female,41,No,1,Nairobi,Graduate,,3652,0,95,10/8/2017,360,1,Semiurban,Y
+LP002755,Male,40,Yes,1,Nairobi,Not Graduate,No,2239,2524,128,9/11/2018,360,1,Urban,Y
+LP002757,Female,27,Yes,0,Kiambu,Not Graduate,No,3017,663,102,5/9/2017,360,,Semiurban,Y
+LP002767,Male,33,Yes,0,Machakos,Graduate,No,2768,1950,155,16/04/2018,360,1,Rural,Y
+LP002768,Male,20,No,0,Nairobi,Not Graduate,No,3358,0,80,23/09/2017,36,1,Semiurban,N
+LP002772,Male,44,No,0,Machakos,Graduate,No,2526,1783,145,18/06/2017,360,1,Rural,Y
+LP002776,Female,32,No,0,Kiambu,Graduate,No,5000,0,103,31/03/2017,360,0,Semiurban,N
+LP002777,Male,40,Yes,0,Nairobi,Graduate,No,2785,2016,110,14/04/2018,360,1,Rural,Y
+LP002778,Male,29,Yes,2,Nairobi,Graduate,Yes,6633,0,,9/5/2017,360,0,Rural,N
+LP002784,Male,22,Yes,1,Nairobi,Not Graduate,No,2492,2375,,6/10/2017,360,1,Rural,Y
+LP002785,Male,22,Yes,1,Kiambu,Graduate,No,3333,3250,158,3/6/2017,360,1,Urban,Y
+LP002788,Male,28,Yes,0,Mombasa,Not Graduate,No,2454,2333,181,16/07/2017,360,0,Urban,N
+LP002789,Male,23,Yes,0,Mombasa,Graduate,No,3593,4266,132,28/11/2018,180,0,Rural,N
+LP002792,Male,22,Yes,1,Mombasa,Graduate,No,5468,1032,26,9/8/2017,360,1,Semiurban,Y
+LP002794,Female,35,No,0,Machakos,Graduate,No,2667,1625,84,30/09/2018,360,,Urban,Y
+LP002795,Male,30,Yes,3+,Machakos,Graduate,Yes,10139,0,260,11/10/2017,360,1,Semiurban,Y
+LP002798,Male,29,Yes,0,Nairobi,Graduate,No,3887,2669,162,1/2/2017,360,1,Semiurban,Y
+LP002804,Female,26,Yes,0,Kiambu,Graduate,No,4180,2306,182,15/10/2017,360,1,Semiurban,Y
+LP002807,Male,45,Yes,2,Kiambu,Not Graduate,No,3675,242,108,25/08/2018,360,1,Semiurban,Y
+LP002813,Female,41,Yes,1,Mombasa,Graduate,Yes,19484,0,600,10/2/2018,360,1,Semiurban,Y
+LP002820,Male,42,Yes,0,Mombasa,Graduate,No,5923,2054,211,1/2/2017,360,1,Rural,Y
+LP002821,Male,27,No,0,Nairobi,Not Graduate,Yes,5800,0,132,15/01/2018,360,1,Semiurban,Y
+LP002832,Male,18,Yes,2,Nairobi,Graduate,No,8799,0,258,20/11/2018,360,0,Urban,N
+LP002833,Male,32,Yes,0,Kiambu,Not Graduate,No,4467,0,120,21/07/2017,360,,Rural,Y
+LP002836,Male,33,No,0,Mombasa,Graduate,No,3333,0,70,8/8/2017,360,1,Urban,Y
+LP002837,Male,33,Yes,3+,Mombasa,Graduate,No,3400,2500,123,24/12/2018,360,0,Rural,N
+LP002840,Female,32,No,0,Kiambu,Graduate,No,2378,0,9,20/08/2017,360,1,Urban,N
+LP002841,Male,35,Yes,0,Machakos,Graduate,No,3166,2064,104,17/01/2017,360,0,Urban,N
+LP002842,Male,31,Yes,1,Mombasa,Graduate,No,3417,1750,186,4/4/2017,360,1,Urban,Y
+LP002847,Male,32,Yes,,Mombasa,Graduate,No,5116,1451,165,14/04/2018,360,0,Urban,N
+LP002855,Male,20,Yes,2,Mombasa,Graduate,No,16666,0,275,28/08/2018,360,1,Urban,Y
+LP002862,Male,39,Yes,2,Machakos,Not Graduate,No,6125,1625,187,1/11/2018,480,1,Semiurban,N
+LP002863,Male,35,Yes,3+,Kiambu,Graduate,No,6406,0,150,3/7/2017,360,1,Semiurban,N
+LP002868,Male,32,Yes,2,Kiambu,Graduate,No,3159,461,108,14/12/2018,84,1,Urban,Y
+LP002872,,34,Yes,0,Mombasa,Graduate,No,3087,2210,136,12/11/2018,360,0,Semiurban,N
+LP002874,Male,26,No,0,Nairobi,Graduate,No,3229,2739,110,15/05/2017,360,1,Urban,Y
+LP002877,Male,21,Yes,1,Mombasa,Graduate,No,1782,2232,107,18/04/2017,360,1,Rural,Y
+LP002888,Male,40,No,0,Nairobi,Graduate,,3182,2917,161,22/08/2018,360,1,Urban,Y
+LP002892,Male,35,Yes,2,Machakos,Graduate,No,6540,0,205,20/06/2017,360,1,Semiurban,Y
+LP002893,Male,31,No,0,Kiambu,Graduate,No,1836,33837,90,2/7/2018,360,1,Urban,N
+LP002894,Female,28,Yes,0,Machakos,Graduate,No,3166,0,36,13/09/2017,360,1,Semiurban,Y
+LP002898,Male,29,Yes,1,Machakos,Graduate,No,1880,0,61,14/03/2017,360,,Rural,N
+LP002911,Male,41,Yes,1,Machakos,Graduate,No,2787,1917,146,25/10/2017,360,0,Rural,N
+LP002912,Male,25,Yes,1,Machakos,Graduate,No,4283,3000,172,6/7/2017,84,1,Rural,N
+LP002916,Male,25,Yes,0,Nairobi,Graduate,No,2297,1522,104,20/03/2018,360,1,Urban,Y
+LP002917,Female,23,No,0,Machakos,Not Graduate,No,2165,0,70,25/07/2017,360,1,Semiurban,Y
+LP002925,,25,No,0,Mombasa,Graduate,No,4750,0,94,4/3/2018,360,1,Semiurban,Y
+LP002926,Male,35,Yes,2,Machakos,Graduate,Yes,2726,0,106,31/07/2018,360,0,Semiurban,N
+LP002928,Male,45,Yes,0,Nairobi,Graduate,No,3000,3416,56,27/10/2017,180,1,Semiurban,Y
+LP002931,Male,38,Yes,2,Mombasa,Graduate,Yes,6000,0,205,9/8/2017,240,1,Semiurban,N
+LP002933,,42,No,3+,Mombasa,Graduate,Yes,9357,0,292,22/08/2018,360,1,Semiurban,Y
+LP002936,Male,42,Yes,0,Machakos,Graduate,No,3859,3300,142,12/3/2017,180,1,Rural,Y
+LP002938,Male,25,Yes,0,Machakos,Graduate,Yes,16120,0,260,9/9/2017,360,1,Urban,Y
+LP002940,Male,29,No,0,Mombasa,Not Graduate,No,3833,0,110,6/7/2018,360,1,Rural,Y
+LP002941,Male,28,Yes,2,Kiambu,Not Graduate,Yes,6383,1000,187,21/03/2017,360,1,Rural,N
+LP002943,Male,18,No,,Machakos,Graduate,No,2987,0,88,27/12/2017,360,0,Semiurban,N
+LP002945,Male,20,Yes,0,Mombasa,Graduate,Yes,9963,0,180,25/04/2018,360,1,Rural,Y
+LP002948,Male,37,Yes,2,Machakos,Graduate,No,5780,0,192,14/06/2017,360,1,Urban,Y
+LP002949,Female,33,No,3+,Machakos,Graduate,,416,41667,350,16/08/2018,180,,Urban,N
+LP002950,Male,25,Yes,0,Kiambu,Not Graduate,,2894,2792,155,3/11/2017,360,1,Rural,Y
+LP002953,Male,39,Yes,3+,Mombasa,Graduate,No,5703,0,128,25/10/2018,360,1,Urban,Y
+LP002958,Male,31,No,0,Kiambu,Graduate,No,3676,4301,172,13/02/2017,360,1,Rural,Y
+LP002959,Female,33,Yes,1,Machakos,Graduate,No,12000,0,496,18/09/2018,360,1,Semiurban,Y
+LP002960,Male,22,Yes,0,Nairobi,Not Graduate,No,2400,3800,,19/09/2017,180,1,Urban,N
+LP002961,Male,32,Yes,1,Machakos,Graduate,No,3400,2500,173,15/04/2017,360,1,Semiurban,Y
+LP002964,Male,22,Yes,2,Mombasa,Not Graduate,No,3987,1411,157,21/11/2018,360,1,Rural,Y
+LP002974,Male,26,Yes,0,Nairobi,Graduate,No,3232,1950,108,6/7/2017,360,1,Rural,Y
+LP002978,Female,37,No,0,Nairobi,Graduate,No,2900,0,71,12/6/2017,360,1,Rural,Y
+LP002979,Male,26,Yes,3+,Mombasa,Graduate,No,4106,0,40,18/08/2018,180,1,Rural,Y
+LP002983,Male,24,Yes,1,Kiambu,Graduate,No,8072,240,253,5/7/2017,360,1,Urban,Y
+LP002984,Male,42,Yes,2,Machakos,Graduate,No,7583,0,187,24/01/2017,360,1,Urban,Y
+LP002990,Female,42,No,0,Kiambu,Graduate,Yes,4583,0,133,27/10/2018,360,0,Semiurban,N
